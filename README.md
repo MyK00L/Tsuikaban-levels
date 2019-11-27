@@ -4,7 +4,7 @@ M's Tsuikaban's levels
 ## Attribution
 
 The levels hereby provided are designed by:
-- [MyK00L](https://github.com/myk00l)
+- [MyK00L](https://github.com/myk00l) (0-16)
 
 ## Level file specification
 ```
