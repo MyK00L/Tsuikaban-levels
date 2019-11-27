@@ -8,24 +8,15 @@ The levels hereby provided are designed by:
 
 ## Level file specification
 ```
-6 10
-##########
-#.....##D#
-#........#
-#.....####
-#.....####
-##########
+4 12
+############
+#..........#
+######...#D#
+############
 1 1
-9
-2 2 255 0 0 1
-3 2 255 0 0 2
-4 2 255 0 0 3
-4 3 0 255 255 3
-3 3 0 255 255 2
-2 3 0 255 255 1
-6 2 0 255 255 -2
-7 2 255 0 0 -4
-8 2 0 255 255 -4
+2
+3 1 255 0 0 1
+5 1 0 0 255 1
 ```
 - The first line contains two integers: the `height` and the `width` of the board
 - The second to the `height + 1` lines contain the map:
