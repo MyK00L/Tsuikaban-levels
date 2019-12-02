@@ -23,9 +23,9 @@ The levels hereby provided are designed by:
   - A `#` is used to represent a wall
   - A `.` is used to represent a free block
   - A `D` is used to represent a door
-- The next line contains the initial position (`y`, `x`) of the player
+- The next line contains the initial position (`x`, `y`) of the player
 - The following line contains the number of coloured blocks in the board
 - Each following line contains:
-  - `y x` coordinates of the block
+  - `x y` coordinates of the block
   - `r g b` components of the block
   - `n`, the value of the block
