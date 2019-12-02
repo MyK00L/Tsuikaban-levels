@@ -19,10 +19,10 @@ The levels hereby provided are designed by:
 5 1 0 0 255 1
 ```
 - The first line contains two integers: the `height` and the `width` of the board
-- The second to the `height + 1` lines contain the map:
-  - A `#` is used to represent a wall
-  - A `.` is used to represent a free block
-  - A `D` is used to represent a door
+- The next `height` lines contain the map:
+  - `#` is used to represent a wall
+  - `.` is used to represent a free block
+  - `D` is used to represent a door
 - The next line contains the initial position (`x`, `y`) of the player
 - The following line contains the number of coloured blocks in the board
 - Each following line contains:
