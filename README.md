@@ -32,13 +32,13 @@ The levels hereby provided are designed by:
 
 ## Color scheme
 
-* ![#CF7ADB](https://www.colorbook.io/imagecreator.php?hex=CF7ADB&width=100&height=50) #CF7ADB
-* ![#FF5F4B](https://www.colorbook.io/imagecreator.php?hex=FF5F4B&width=100&height=50) #FF5F4B
-* ![#FFDB66](https://www.colorbook.io/imagecreator.php?hex=FFDB66&width=100&height=50) #FFDB66
-* ![#1E8EB8](https://www.colorbook.io/imagecreator.php?hex=1E8EB8&width=100&height=50) #1E8EB8
-* ![#8ABDFF](https://www.colorbook.io/imagecreator.php?hex=8ABDFF&width=100&height=50) #8ABDFF
-* ![#FF954A](https://www.colorbook.io/imagecreator.php?hex=FF954A&width=100&height=50) #FF954A
-* ![#8F2B62](https://www.colorbook.io/imagecreator.php?hex=8F2B62&width=100&height=50) #8F2B62
-* ![#CAFF42](https://www.colorbook.io/imagecreator.php?hex=CAFF42&width=100&height=50) #CAFF42
-* ![#4C4DEB](https://www.colorbook.io/imagecreator.php?hex=4C4DEB&width=100&height=50) #4C4DEB
-* ![#70C88C](https://www.colorbook.io/imagecreator.php?hex=70C88C&width=100&height=50) #70C88C
+* ![#CF7ADB](https://www.colorbook.io/imagecreator.php?hex=CF7ADB&width=100&height=50) `rgb(207, 122, 219)`
+* ![#FF5F4B](https://www.colorbook.io/imagecreator.php?hex=FF5F4B&width=100&height=50) `rgb(255, 95, 75)`
+* ![#FFDB66](https://www.colorbook.io/imagecreator.php?hex=FFDB66&width=100&height=50) `rgb(255, 219, 102)`
+* ![#1E8EB8](https://www.colorbook.io/imagecreator.php?hex=1E8EB8&width=100&height=50) `rgb(30, 142, 184)`
+* ![#8ABDFF](https://www.colorbook.io/imagecreator.php?hex=8ABDFF&width=100&height=50) `rgb(138, 189, 255)`
+* ![#FF954A](https://www.colorbook.io/imagecreator.php?hex=FF954A&width=100&height=50) `rgb(255, 149, 74)`
+* ![#8F2B62](https://www.colorbook.io/imagecreator.php?hex=8F2B62&width=100&height=50) `rgb(143, 43, 98)`
+* ![#CAFF42](https://www.colorbook.io/imagecreator.php?hex=CAFF42&width=100&height=50) `rgb(202, 255, 66)`
+* ![#4C4DEB](https://www.colorbook.io/imagecreator.php?hex=4C4DEB&width=100&height=50) `rgb(76, 77, 235)`
+* ![#70C88C](https://www.colorbook.io/imagecreator.php?hex=70C88C&width=100&height=50) `rgb(112, 200, 140)`
